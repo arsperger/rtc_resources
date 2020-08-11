@@ -17,10 +17,12 @@
 
 ## WebRTC related
 [RFC 7118](https://tools.ietf.org/html/rfc7118): The WebSocket Protocol as a Transport for the Session Initiation Protocol (SIP)
+[RFC 7478](https://tools.ietf.org/html/rfc7478): Web Real-Time Communication Use Cases and Requirements
+[RFC 7874](https://tools.ietf.org/html/rfc7874): WebRTC Audio Codec and Processing Requirements
+[RFC 7742](https://tools.ietf.org/html/rfc7742): WebRTC Video Processing and Codec Requirements
 
 ### ICE, STUN, TURN
 [RFC 8445](https://tools.ietf.org/html/rfc8445): Interactive Connectivity Establishment (ICE): (NAT) Traversal
-[RFC 5245](https://tools.ietf.org/html/rfc5245): Interactive Connectivity Establishment (ICE): (NAT) Traversal for Offer/Answer Protocols
 [RFC 5389](https://tools.ietf.org/html/rfc5389): Session Traversal Utilities for NAT (STUN)
 [RFC 7350](https://tools.ietf.org/html/rfc7350): DTLS as Transport for Session Traversal Utilities for NAT (STUN)
 [RFC 5766](https://tools.ietf.org/html/rfc5766): TURN Relay Extensions to Session Traversal Utilities for NAT (STUN)
