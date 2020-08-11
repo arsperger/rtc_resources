@@ -1,6 +1,6 @@
 ## An incomplete list with RTC related standards and network protocols 
 
-## SIP related
+### SIP related
 
 [RFC 3261](https://tools.ietf.org/html/rfc3261): SIP: Session Initiation Protocol
 [RFC 3262](https://tools.ietf.org/html/rfc3262): Reliability of Provisional Responses in (SIP)
@@ -38,4 +38,3 @@
 [RFC 1180](https://tools.ietf.org/html/rfc1180): A TCP/IP Tutorial
 [RFC 793](https://tools.ietf.org/html/rfc793): TCP - Old but Gold
 [RFC 768](https://tools.ietf.org/html/rfc768): UDP
-
